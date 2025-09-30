@@ -1,4 +1,4 @@
-const tombolsapa = document.getElementByld('i love new york!')
+const tombolsapa = document.getElementByld('sapaSpider')
 tombolSapa.addEventlistener('click',function() {
   alert('infokan kriminal terdekat');
 });
