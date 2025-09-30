@@ -1,3 +1,4 @@
 const tombolsapa = document.getElementByld('sapaSpider')
-tombolSapa.addEventlistener('click',function(){
-  alert('infokan kriminal terdekat');});
+tombolSapa.addEventlistener('click',function() {
+  alert('infokan kriminal terdekat');
+});
